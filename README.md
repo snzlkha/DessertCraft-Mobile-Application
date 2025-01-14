@@ -3,7 +3,7 @@ Final Year Project - DessertCraft: An Interactive Canvas for Custom Dessert Desi
 
 Interfaces:
 
-![FYP POSTER](https://github.com/user-attachments/assets/6f0a9d3b-5923-49af-914b-c1db6cca06d4)
+![FYP POSTER](https://github.com/user-attachments/assets/10f408de-9e86-479c-8018-e976be016d9f)
 
 Mobile app:
 https://youtu.be/Gzriay7utmo?si=MqjzfROxCyQKJOrT
